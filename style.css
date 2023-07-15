@@ -1,0 +1,40 @@
+h1{
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.all_background img{
+    width: 500px;
+    height: 700px;
+}
+
+p{
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 2;
+}
+
+.menu a{
+    font-size: 20px;
+    text-decoration: none;
+    color: green;
+    margin-right: 5px;
+    padding-top: 50px;
+    
+    
+}
+.menu{
+    background-color: antiquewhite;
+    height: 75px;
+}
+
+.Contact{
+    margin-left: 800px;
+}
+
+.all_background{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    vertical-align: top;
+    margin-top: 50px;
+}
